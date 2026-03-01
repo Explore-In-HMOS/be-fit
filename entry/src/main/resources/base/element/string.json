@@ -1,0 +1,100 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "module description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "BeFit"
+    },
+    {
+      "name": "heart_reason",
+      "value": "We will track your heart rate."
+    },
+    {
+      "name": "next",
+      "value": "Next"
+    },
+    {
+      "name": "empty_exercise",
+      "value": "No exercises yet"
+    },
+    {
+      "name": "add_exercise",
+      "value": "Add Exercise"
+    },
+    {
+      "name": "confirm",
+      "value": "Confirm"
+    },
+    {
+      "name": "exercises",
+      "value": "Exercises"
+    },
+    {
+      "name": "routine_name",
+      "value": "Routine Name"
+    },
+    {
+      "name": "membership_info",
+      "value": "Membership Information"
+    },
+    {
+      "name": "me",
+      "value": "Me"
+    },
+    {
+      "name": "near_gym",
+      "value": "Nearby Gyms"
+    },
+    {
+      "name": "account",
+      "value": "Account"
+    },
+    {
+      "name": "empty_routines",
+      "value": "No routines yet"
+    },
+    {
+      "name": "routines",
+      "value": "Routines"
+    },
+    {
+      "name": "plus_new",
+      "value": "+ New"
+    },
+    {
+      "name": "workout_history",
+      "value": "Workout History"
+    },
+    {
+      "name": "workout_analysis",
+      "value": "Workout Analysis"
+    },
+    {
+      "name": "finish",
+      "value": "Finish"
+    },
+    {
+      "name": "not_found_exercise",
+      "value": "No exercise found"
+    },
+    {
+      "name": "EntryQR",
+      "value": "Entry QR"
+    },
+    {
+      "name": "gym_subscription",
+      "value": "Gym Subscription"
+    },
+    {
+      "name": "profile",
+      "value": "Profile"
+    }
+  ]
+}
