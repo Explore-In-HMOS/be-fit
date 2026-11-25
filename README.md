@@ -2,7 +2,7 @@
 
 # WearableBeFit
 
-BeFit is a workout tracking application built for HarmonyOS Next. It enables users to create custom workout routines, monitor exercise progress, analyze workout intensity, and track performance metrics such as weight, sets, repetitions, and heart rate data.
+BeFit is a workout tracking application built for HarmonyOS. It enables users to create custom workout routines, monitor exercise progress, analyze workout intensity, and track performance metrics such as weight, sets, repetitions, and heart rate data.
 
 # Preview
 
